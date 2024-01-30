@@ -4,8 +4,9 @@
 <div style="text-align: center;">
   <img src="anh/snowflake.drawio.png" alt="Snowflake Schema" width="400"/>
   <img src="anh/star_schema.drawio.png" alt="Star Schema" width="400"/>
-  <br>
-  <img src="anh/ETL.png" alt="ETL Setup" style="margin-top: 10px;"/>
+  <br> **Snowflake to Star Schema**
+  <img src="anh/ETL.png" alt="ETL Setup" style="margin-top: 10px;"/> 
+  **ETL setup**
 </div>
 
 >Step 1: Install Docker and Airflow
