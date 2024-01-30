@@ -4,11 +4,13 @@
 <div style="text-align: center;">
   <figure>
     <img src="anh/snowflake.drawio.png" alt="Snowflake Schema" width="400"/>
+    <br>
     <figcaption>Snowflake Schema</figcaption>
   </figure>
   
   <figure>
     <img src="anh/star_schema.drawio.png" alt="Star Schema" width="400"/>
+    <br>
     <figcaption>Star Schema</figcaption>
   </figure>
   
@@ -16,6 +18,7 @@
 
   <figure>
     <img src="anh/ETL.png" alt="ETL Setup" style="margin-top: 10px;"/>
+    <br>
     <figcaption>ETL Setup</figcaption>
   </figure>
 </div>
