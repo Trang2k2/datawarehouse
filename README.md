@@ -2,12 +2,24 @@
 2. This report dives into SQL-based Northwind analytics, addressing sales business questions through SQL queries. We transformed data from OLTP to OLAP, identified Sales facts and dimensions to easily analyze Northwind's sales results.
 3. Sales analysis: Provides comprehensive reporting on sales figures to understand which products are being sold to customers, which products sell the most, where they are sold, and which products sell the least. The goal is to get a comprehensive view of the business.
 <div style="text-align: center;">
-  <img src="anh/snowflake.drawio.png" alt="Snowflake Schema" width="400"/>
-  <img src="anh/star_schema.drawio.png" alt="Star Schema" width="400"/>
-  <br> **Snowflake to Star Schema**
-  <img src="anh/ETL.png" alt="ETL Setup" style="margin-top: 10px;"/> 
-  **ETL setup**
+  <figure>
+    <img src="anh/snowflake.drawio.png" alt="Snowflake Schema" width="400"/>
+    <figcaption>Snowflake Schema</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="anh/star_schema.drawio.png" alt="Star Schema" width="400"/>
+    <figcaption>Star Schema</figcaption>
+  </figure>
+  
+  <br>
+
+  <figure>
+    <img src="anh/ETL.png" alt="ETL Setup" style="margin-top: 10px;"/>
+    <figcaption>ETL Setup</figcaption>
+  </figure>
 </div>
+
 
 >Step 1: Install Docker and Airflow
 1. Install Docker: Visit the official Docker website to download and install Docker Desktop: Docker Desktop.
