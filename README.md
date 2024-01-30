@@ -14,7 +14,7 @@ Step 1: Install Docker and Airflow
 3. Docker Compose usually comes with Docker Desktop. If not, you can download it from here.
 4. Create Docker-Compose File for Airflow (in file docker-compose.yml)
 5. Run Airflow Docker Container: right click on docker-compose.yml => choose "compose up"
-\\Step 2: Connect Airflow to Google Cloud
+>Step 2: Connect Airflow to Google Cloud
 1. Create Service Account on Google Cloud:
     - Visit Google Cloud Console.
     - Create or select a project.
@@ -26,9 +26,9 @@ Step 1: Install Docker and Airflow
     - Conn Type: Google Cloud Platform
     - Project Id: <your_project_id>
     - Keyfile JSON: Content of the JSON key you downloaded from Google Cloud.
-\\Step 3: Create a DAG to Transfer Data
+>Step 3: Create a DAG to Transfer Data
  
-\\Open local host 8080:8080
+>Open local host 8080:8080
 
 Visualization:
 Overviews, Sales and Product visualization
