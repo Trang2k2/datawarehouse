@@ -9,7 +9,7 @@
 
 **ETL setup**:
 ![Local Image](anh/ETL.png)
-Step 1: Install Docker and Airflow
+>Step 1: Install Docker and Airflow
 1. Install Docker: Visit the official Docker website to download and install Docker Desktop: Docker Desktop.
 3. Docker Compose usually comes with Docker Desktop. If not, you can download it from here.
 4. Create Docker-Compose File for Airflow (in file docker-compose.yml)
